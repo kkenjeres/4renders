@@ -26,7 +26,7 @@ Next.js (App Router)
 
 TypeScript
 
-Tailwind CSS (+ prettier-plugin-tailwindcss)
+Tailwind CSS 
 
 shadcn/ui (Radix under the hood)
 
