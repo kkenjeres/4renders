@@ -18,7 +18,7 @@ export const ApiList = ({ posts, className }: Props) => {
               <article aria-labelledby={titleId}>
                 <Card
                   aria-labelledby={titleId}
-                  className="flex aspect-[200/80] flex-col justify-between p-3 transition-shadow focus-within:shadow hover:shadow sm:aspect-[400/240] lg:aspect-[312/200] xl:aspect-[402/200] 2xl:aspect-[402/180]"
+                  className="flex aspect-[200/80] flex-col justify-between sm:aspect-[400/240] lg:aspect-[312/200] xl:aspect-[402/200] 2xl:aspect-[402/180]"
                 >
                   <CardHeader>
                     <CardTitle id={titleId}>{p.title}</CardTitle>
