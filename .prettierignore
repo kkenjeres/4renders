@@ -1,0 +1,16 @@
+.next
+out
+build
+dist
+coverage
+**/.turbo
+**/.cache
+
+node_modules
+
+*.min.js
+*.d.ts
+*.map
+public/*.png
+public/*.jpg
+public/*.svg
